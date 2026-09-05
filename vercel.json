@@ -1,0 +1,1 @@
+{"rewrites": [{"source": "/interest/:vacancyId", "destination": "/interest/[vacancyId].html"}, {"source": "/vacancy/:id", "destination": "/vacancy/[id].html"}]}
